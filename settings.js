@@ -1,4 +1,4 @@
-//base by DGXeon
+//base by Alok
 //re-upload? recode? copy code? give credit ya :)
 //YouTube: @xenonbtz
 //Instagram: xenon_btz
