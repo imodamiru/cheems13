@@ -12,7 +12,7 @@ const chalk = require('chalk')
 
 //owmner v card
 global.ytname = "YT: XenonBtz" //ur yt chanel name
-al.socialm = "GitHub: TeamGodLike" //ur github or insta name
+global.socialm = "GitHub: TeamGodLike" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
